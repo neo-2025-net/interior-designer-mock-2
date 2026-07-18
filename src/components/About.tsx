@@ -6,7 +6,7 @@ const aboutContent = {
     eyebrow: 'The Studio',
     title: 'A philosophy of',
     titleAccent: 'restraint',
-    body: 'Lamsat Ayar Decor is an interior design studio devoted to the art of silent luxury. We believe the most powerful spaces speak softly — through proportion, material, and the interplay of light and shadow. Every project begins with listening, and ends with a space that feels inevitable.',
+    body: 'Interior Design Decor is an interior design studio devoted to the art of silent luxury. We believe the most powerful spaces speak softly — through proportion, material, and the interplay of light and shadow. Every project begins with listening, and ends with a space that feels inevitable.',
     stats: [
       { value: '12+', label: 'Years of Craft' },
       { value: '180+', label: 'Projects Realized' },
@@ -17,7 +17,7 @@ const aboutContent = {
     eyebrow: 'الاستوديو',
     title: 'فلسفة',
     titleAccent: 'الضبط',
-    body: 'لمسات عيار للديكور استوديو تصميم داخلي مكرّس لفن الفخامة الصامتة. نؤمن بأن أقوى المساحات تتحدث بهدوء — عبر التناسب، والمواد، وتفاعل الضوء والظل. كل مشروع يبدأ بالاستماع، وينتهي بمساحة تبدو حتمية.',
+    body: 'للديكور استوديو تصميم داخلي مكرّس لفن الفخامة الصامتة. نؤمن بأن أقوى المساحات تتحدث بهدوء — عبر التناسب، والمواد، وتفاعل الضوء والظل. كل مشروع يبدأ بالاستماع، وينتهي بمساحة تبدو حتمية.',
     stats: [
       { value: '+12', label: 'سنوات من الحرفية' },
       { value: '+180', label: 'مشروع منجز' },

@@ -9,7 +9,7 @@ const contactContent = {
     titleAccent: 'your space',
     body: 'Every great interior begins with a single message. Reach out to schedule a private consultation.',
     whatsapp: 'WhatsApp Consultation',
-    email: 'hello@lamsatayar.design',
+    email: 'hello@interior.design',
     location: 'Tabuk, Saudi Arabia',
     phone: '+966 508142154',
     cta: 'Send Message',
@@ -20,7 +20,7 @@ const contactContent = {
     titleAccent: 'مساحتك',
     body: 'كل تصميم داخلي عظيم يبدأ برسالة واحدة. تواصل معنا لجدولة استشارة خاصة.',
     whatsapp: 'استشارة واتساب',
-    email: 'hello@lamsatayar.com',
+    email: 'hello@interior.design',
     location: 'تبوك، المملكة العربية السعودية',
     phone: '+966 508142154',
     cta: 'إرسال',
@@ -61,7 +61,7 @@ export default function Contact() {
         {/* WhatsApp CTA */}
         <Magnetic
           as="a"
-          href="https://wa.me/966508142154"
+          href="https://wa.me/1234567890"
           target="_blank"
           rel="noopener noreferrer"
           className="whatsapp-pulse relative inline-flex items-center gap-3 px-8 py-4 rounded-full bg-gold text-charcoal text-sm md:text-base font-body font-medium tracking-wide hover:bg-gold-light transition-colors mb-12"

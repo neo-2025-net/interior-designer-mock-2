@@ -34,7 +34,7 @@ export default function Footer() {
             />
             <div>
               <div className={`${fontTitle} text-cream text-lg leading-tight`}>
-                {isAr ? 'لمسات عيار' : 'Lamsat Ayar'}
+                {isAr ? 'مصمم داخلي' : 'Interior Designer'}
               </div>
               <div className="text-gold/70 text-[10px] tracking-[0.25em] uppercase font-body">
                 {content.tagline}
@@ -57,7 +57,7 @@ export default function Footer() {
 
           {/* Copyright */}
           <div className="text-cream/40 text-xs font-body tracking-wide">
-            © {year} {isAr ? 'لمسات عيار' : 'Lamsat Ayar'}. {content.rights}
+            © {year} {isAr ? 'مصمم داخلي' : 'Interior Designer'}. {content.rights}
           </div>
         </div>
       </div>

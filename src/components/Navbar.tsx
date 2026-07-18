@@ -46,7 +46,7 @@ export default function Navbar() {
     <nav
       className={`fixed top-0 left-0 right-0 z-50 transition-all duration-500 ${
         scrolled
-          ? 'glass py-3 shadow-[0_4px_30px_rgba(0,0,0,0.06)]'
+          ? 'bg-white py-3 shadow-[0_4px_30px_rgba(0,0,0,0.06)]'
           : 'py-5 bg-transparent'
       }`}
     >
@@ -55,8 +55,8 @@ export default function Navbar() {
         <a href="#hero" className="flex items-center gap-3 group">
           <div className="relative w-11 h-11 md:w-12 md:h-12 flex items-center justify-center">
             <img
-              src="/images/logo.png"
-              alt="Lamsat Ayar Decor Logo"
+              src="/images/logo.svg"
+              alt="Decor Logo"
               className="w-full h-full object-contain transition-all duration-500 group-hover:scale-105"
               // style={{
               //   filter: isLight
@@ -69,7 +69,7 @@ export default function Navbar() {
             <div className={`font-display text-lg md:text-xl tracking-wide transition-colors duration-500 ${
               isLight ? 'text-charcoal' : 'text-cream'
             }`}>
-              {lang === 'en' ? 'Lamsat Ayar' : 'لمسات عيار'}
+              {lang === 'en' ? 'Interior' : 'مصمم داخلي'}
             </div>
             <div className="text-[10px] md:text-[11px] tracking-[0.25em] uppercase text-gold-dark font-body">
               {lang === 'en' ? 'Decor Studio' : 'للديكور'}

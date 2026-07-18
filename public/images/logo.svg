@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="92.616997mm"
+   height="92.617004mm"
+   viewBox="0 0 92.616997 92.617004"
+   version="1.1"
+   id="svg1"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <g
+     id="layer1"
+     transform="translate(-58.691498,-102.19149)">
+    <circle
+       style="fill:#1a1a1a;fill-opacity:1;stroke:#ffffff;stroke-width:1.897;stroke-linecap:round;stroke-dasharray:none;paint-order:markers fill stroke"
+       id="path1"
+       cx="105"
+       cy="148.5"
+       r="45.360001" />
+    <text
+       xml:space="preserve"
+       style="font-weight:800;font-size:16.8933px;font-family:Sora;-inkscape-font-specification:'Sora Ultra-Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#1a1a1a;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-dasharray:none;paint-order:markers fill stroke"
+       x="79.738976"
+       y="133.70146"
+       id="text1"><tspan
+         id="tspan1"
+         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-family:Sora;-inkscape-font-specification:'Sora Ultra-Bold';fill:#1aff1a;fill-opacity:1;stroke-width:0;stroke-dasharray:none"
+         x="79.738976"
+         y="133.70146">YOUR </tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-family:Sora;-inkscape-font-specification:'Sora Ultra-Bold';fill:#1aff1a;fill-opacity:1;stroke-width:0;stroke-dasharray:none"
+         x="79.738976"
+         y="154.81808"
+         id="tspan2">LOGO </tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-family:Sora;-inkscape-font-specification:'Sora Ultra-Bold';fill:#1aff1a;fill-opacity:1;stroke-width:0;stroke-dasharray:none"
+         x="79.738976"
+         y="175.93471"
+         id="tspan3">HERE</tspan></text>
+  </g>
+</svg>
